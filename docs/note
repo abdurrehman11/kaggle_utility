@@ -1,0 +1,30 @@
+If your project is large enough to maintain docs they would be here.
+
+This project is small so its docs are contained in the readme.rst
+
+You can read more about documentation here: http://sphinx-doc.org/
+
+For structuring python project, see these links:
+
+https://www.youtube.com/watch?v=RKHMnevITF0&t=297s
+https://www.geeksforgeeks.org/python-virtual-environment/
+
+For Virtual environment, see these links:
+
+https://stackoverflow.com/questions/13206990/virtualenv-env-not-creating-bin-directory-in-windows-7
+https://stackoverflow.com/questions/56973291/how-to-fix-seemingly-endless-loop-while-creating-virtual-environment-with-python
+
+To install the package from your local machine globally,
+python -m pip install -e D:\machine_learning_utility
+
+To install the package from your local machine into the same directory,
+pip install .
+
+To create .pypirc file,
+https://docs.python.org/3.2/distutils/packageindex.html
+
+For deployment to PyPi,
+https://packaging.python.org/tutorials/packaging-projects/
+
+For installing a package,
+https://packaging.python.org/tutorials/installing-packages/
