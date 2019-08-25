@@ -28,3 +28,7 @@ https://packaging.python.org/tutorials/packaging-projects/
 
 For installing a package,
 https://packaging.python.org/tutorials/installing-packages/
+
+To update(upload further release) on pypi,
+https://stackoverflow.com/questions/52700692/a-guide-for-updating-packages-on-pypi
+https://stackoverflow.com/questions/47071256/how-to-update-upgrade-a-package-using-pip
